@@ -49,8 +49,6 @@ Here’s my Resume: <a href="https://drive.google.com/file/d/1OIvblJI5eQh0B2advr
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
 <img width="12"/>
-<img src="https://cdn.simpleicons.org/huggingface/primary.svg" height="40"/>
-<img width="12"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/light/langgraph.png" height="40"/>
 
 <br>
