@@ -22,21 +22,6 @@ Here’s my Resume: <a href="https://drive.google.com/file/d/1OIvblJI5eQh0B2advr
 ---
 
 <div align="left">
-<h2>Connect with me here:</h2>
-
-<a href="mailto:nikunjgupta2136@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-</a>
-
-<a href="https://www.linkedin.com/in/nikunj-gupta001/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-</a>
-
-</div>
-
----
-
-<div align="left">
 <h2>Languages, Technologies and Frameworks</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
