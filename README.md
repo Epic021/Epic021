@@ -18,10 +18,11 @@ If something sparks my curiosity, I’ll dive into it, build around it, and try 
 
 ### Tech I use along the way
 
-* Python, JavaScript, HTML/CSS, SQL
+* Python, HTML/CSS, JavaScript, React, SQL
 * PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
-* FAISS, FastAPI, LangGraph, RAG
-* Git, GitHub, Docker, VS Code, Jupyter Notebook, Figma, Gemini API
+* Vision-Language Models, Multimodal Learning, System Design
+* Tranformers, LLMs, Multi-Agentic Systems
+* Git, GitHub, Docker, VS Code, Jupyter Notebook, Figma
 
 ---
 
