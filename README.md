@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikunj Gupta</h1>
-<h2 align="center">Applied AI ML Engineer | Fullstack ML (CV, NLP, Agentic Systems, Scalable backend systems)</h2>
+<h2 align="center">Applied AI-ML Engineer | CV, NLP, Agentic Systems, Scalable backend systems </h2>
 
 ---
 
