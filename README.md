@@ -5,7 +5,7 @@
 
 ### Hello, Welcome.
 
-I’m a 2nd Year Electrical Engineering undergraduate at Delhi Technological University (DTU), focused on building AI-driven systems that are scalable, efficient, and grounded in real-world use cases.
+I’m a Pre final Year Electrical Engineering undergraduate at Delhi Technological University (DTU), focused on building AI-driven systems that are scalable, efficient, and grounded in real-world use cases.
 
 I’m currently exploring AI ML and anything that helps me understand how intelligent systems work. I experiment across different domains, tools, and ideas to figure out what actually works and what truly matters. If something sparks my curiosity, I dive into it, build around it, and try to understand it from first principles.
 
